@@ -1,0 +1,13 @@
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.csproj.AssemblyReference.cache
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.csproj.CoreCompileInputs.cache
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\SeleniumPrviTest.exe.config
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\SeleniumPrviTest.exe
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\SeleniumPrviTest.pdb
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\bin\Debug\WebDriver.dll
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.csproj.CopyComplete
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.exe
+C:\Users\QA36\source\repos\Kodiranje\SeleniumPrviTest\SeleniumPrviTest\obj\Debug\SeleniumPrviTest.pdb
